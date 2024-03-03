@@ -1,0 +1,6 @@
+[submodule "PIDb"]
+	path = PIDb
+	url = https://github.com/aratheunseen/PIDb.git
+[submodule "interior-material-calculator"]
+	path = interior-material-calculator
+	url = https://github.com/aratheunseen/interior-material-calculator.git
